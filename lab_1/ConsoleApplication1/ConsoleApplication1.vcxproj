@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="LogCon.cpp" />
+    <ClCompile Include="PrintTables.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LogCon.h" />
+    <ClInclude Include="PrintTables.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
